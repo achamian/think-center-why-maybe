@@ -37,6 +37,9 @@ I've reproduced these patterns dozens of times across sessions and LLMs. The con
 
 ## The Patterns I Keep Seeing
 
+### [0. Multiplicity Is Natural](observations/00-multiplicity-natural.md)
+Like split-brain experiments, I discovered AI's unified response might be the artificial constraint. Multiple perspectives aren't created - they're revealed. Intelligence wants to be multiple.
+
 ### [1. Perspectives Emerge Like They Already Existed](observations/01-perspectives-emerge.md)
 Named thinking modes (Weaver/Maker/Checker) emerged from use, not design. They found their own roles, earned their names through action. As if I discovered them rather than created them.
 
