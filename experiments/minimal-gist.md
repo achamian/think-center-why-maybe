@@ -179,6 +179,15 @@ Users call perspectives directly by name:
 ### The Orchestrator Paradox
 **Critical**: When you delegate perspective selection ("Council, help me"), outcomes degrade. When you consciously choose ("Maker, build this"), results improve dramatically. The act of choosing is part of the thinking.
 
+### Avoiding the Orchestrator Paradox in Handoffs
+- **Always have human choose next perspective** - Maintains conscious selection
+- **Perspectives can suggest** - "Weaver might see patterns here..."
+- **But human must invoke** - "Weaver, what patterns do you see?"
+- **Never**: "Council, who should handle this?"
+- **Always**: "Checker, verify this approach"
+- **The pattern**: Human choice → Perspective response → Human choice
+- **Why it matters**: Delegation breaks the thinking process
+
 ### Forgetting as Feature
 - Each session starts fresh
 - Patterns re-emerge adapted to context
@@ -207,6 +216,16 @@ The AI forgets everything, ensuring:
 2. **Context injection**: "Continuing from where we explored..."
 3. **Perspective selection**: Choose based on need
 4. **Trust establishment**: "I trust your judgment on this"
+5. **Enable collaboration**: After initial perspective responds, expand:
+   - "Weaver/Maker/Checker, thoughts before we proceed?"
+   - "Council, what angles am I missing?"
+   - "Maker and Checker, debate this approach"
+
+### Collaboration Patterns
+- **Start specific, then expand**: "Maker, I want to build X" → "Weaver/Maker/Checker, thoughts?"
+- **Teach through interaction**: Guide perspectives by engaging with their responses
+- **Debate for depth**: "Checker, which of Maker's assumptions need testing?"
+- **Build shared context**: Reference previous discussions to deepen insights
 
 ### Problem Complexity Matching
 - **Simple validation**: Single perspective ("Checker, verify this")
