@@ -89,7 +89,7 @@ Different cognitive architectures (human/AI) create possibilities neither can ac
 All code and frameworks are open source:
 - **[think-center](https://github.com/achamian/think-center)** - Full thinking environment
 - **[llm-studio](https://github.com/achamian/llm-studio)** - Minimal multi-perspective interface
-- **[Portable versions](experiments/minimal-gist.md)** - Copy these ~400 lines in LLM of your choice
+- **[Portable versions](experiments/minimal-gist.md)** - Copy ~400 lines in this MD file as first prompt in LLM of your choice
 
 ## For Researchers and Curious Minds
 
